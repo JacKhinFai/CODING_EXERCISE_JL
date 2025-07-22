@@ -1,0 +1,14 @@
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\bin\Debug\net8.0\matchSubStrings.exe
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\bin\Debug\net8.0\matchSubStrings.deps.json
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\bin\Debug\net8.0\matchSubStrings.runtimeconfig.json
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\bin\Debug\net8.0\matchSubStrings.dll
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\bin\Debug\net8.0\matchSubStrings.pdb
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\obj\Debug\net8.0\matchSubStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\obj\Debug\net8.0\matchSubStrings.AssemblyInfoInputs.cache
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\obj\Debug\net8.0\matchSubStrings.AssemblyInfo.cs
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\obj\Debug\net8.0\matchSubStrings.csproj.CoreCompileInputs.cache
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\obj\Debug\net8.0\matchSubStrings.dll
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\obj\Debug\net8.0\refint\matchSubStrings.dll
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\obj\Debug\net8.0\matchSubStrings.pdb
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\obj\Debug\net8.0\matchSubStrings.genruntimeconfig.cache
+C:\Users\Jakhin\Documents\Important Document\Eployment\potiental work\UK Allied Associates\matchSubStrings\obj\Debug\net8.0\ref\matchSubStrings.dll
